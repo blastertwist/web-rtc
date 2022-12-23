@@ -1,0 +1,9 @@
+video {
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    object-fit: contain;
+    transform: rotateY(180deg);
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+}
